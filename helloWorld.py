@@ -1,2 +1,2 @@
-user_input = input('Enter a sentence: ')
-print(user_input)
+UI = input('Enter a sentence: ')
+print(UI)
